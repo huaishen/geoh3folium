@@ -1,0 +1,8 @@
+branca==0.3.1
+fastkml==0.11
+folium==0.8.3
+h3==3.4.3
+lxml==4.3.3
+pandas==0.24.2
+Shapely==1.6.4.post2
+shapely-geojson==0.0.1
